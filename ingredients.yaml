@@ -1,0 +1,342 @@
+---
+:dried_fish:
+- :animal_protein
+:cooked_fish:
+- :animal_protein
+:fresh_fish:
+- :animal_protein
+- :fat
+:beef:
+- :animal_protein
+- :fat
+:chicken:
+- :animal_protein
+:liver:
+- :animal_protein
+- :disliked
+:raw_shrimp:
+- :animal_protein
+- :calcium
+- :fat
+- :astaxanthin
+- :liked
+:crayfish:
+- :animal_protein
+- :astaxanthin
+:dried_shrimp:
+- :animal_protein
+- :calcium
+- :astaxanthin
+- :disliked
+:daphnia:
+- :animal_protein
+- :calcium
+- :liked
+:mealworms:
+- :animal_protein
+- :calcium
+- :liked
+:brine_shrimp:
+- :animal_protein
+- :calcium
+- :liked
+:bloodworms:
+- :animal_protein
+- :astaxanthin
+- :liked
+:silkworm_pupa:
+- :animal_protein
+- :calcium
+- :fat
+:egg_yolk:
+- :animal_protein
+- :fat
+- :zeaxanthin
+- :liked
+:egg_white:
+- :animal_protein
+:wheatgerm:
+- :plant_protein
+- :carbs
+- :liked
+:spinach:
+- :plant_protein
+- :veg
+- :calcium
+- :carotenoids
+- :disliked
+:broccoli:
+- :plant_protein
+- :veg
+- :calcium
+- :carotenoids
+- :zeaxanthin
+:millet:
+- :plant_protein
+- :carbs
+:rice:
+- :plant_protein
+- :carbs
+:beans:
+- :plant_protein
+- :calcium
+- :carbs
+:raspberry_leaf:
+- :veg
+- :cellulose
+- :tannin
+:red_seaweed:
+- :veg
+- :calcium
+- :astaxanthin
+- :carotenoids
+- :cellulose
+- :disliked
+:green_seaweed:
+- :veg
+- :calcium
+- :carotenoids
+- :cellulose
+- :liked
+:carrot:
+- :veg
+- :carotenoids
+- :cellulose
+- :zeaxanthin
+:catappa_leaf:
+- :veg
+- :carbs
+- :cellulose
+- :tannin
+:apple:
+- :fruit
+- :cellulose
+:sweet_potato:
+- :veg
+- :carotenoids
+- :carbs
+:mulberry_leaf:
+- :veg
+- :carbs
+- :cellulose
+- :tannin
+:algae:
+- :veg
+- :calcium
+- :carotenoids
+- :zeaxanthin
+:strawberry:
+- :fruit
+- :carotenoids
+:raspberry:
+- :fruit
+- :carotenoids
+- :zeaxanthin
+- :disliked
+:blackcurrant:
+- :fruit
+- :carotenoids
+:blackberry:
+- :fruit
+- :carotenoids
+:blueberry:
+- :fruit
+- :carotenoids
+:papaya:
+- :fruit
+- :carotenoids
+- :zeaxanthin
+:mango:
+- :fruit
+- :carotenoids
+- :zeaxanthin
+- :liked
+:pineapple:
+- :fruit
+- :carotenoids
+:goji_berry:
+- :fruit
+- :carotenoids
+- :disliked
+:cranberry:
+- :fruit
+- :carotenoids
+- :disliked
+:grape:
+- :fruit
+- :zeaxanthin
+:date:
+- :fruit
+:pomegranate:
+- :fruit
+- :carotenoids
+:flower_mix:
+- :cellulose
+- :carotenoids
+:cornflower:
+- :cellulose
+- :carotenoids
+:hay_mix:
+- :cellulose
+- :tannin
+:blackberry_chew_sticks:
+- :carotenoids
+- :cellulose
+- :tannin
+:dandelion_roots:
+- :cellulose
+- :tannin
+:potato:
+- :veg
+- :carbs
+:sweetcorn:
+- :plant_protein
+- :veg
+- :zeaxanthin
+:peas:
+- :plant_protein
+- :veg
+- :zeaxanthin
+- :liked
+:apricot:
+- :fruit
+- :carotenoids
+- :disliked
+:bell_pepper:
+- :veg
+- :carotenoids
+- :zeaxanthin
+:pine_nuts:
+- :plant_protein
+- :calcium
+- :fat
+:walnut:
+- :treat
+:pecan:
+- :plant_protein
+- :calcium
+- :fat
+:hazelnut:
+- :plant_protein
+- :fat
+:almond:
+- :plant_protein
+- :fat
+:chufa_nut:
+- :plant_protein
+- :calcium
+- :fat
+:carob:
+- :cellulose
+- :tannin
+:coconut:
+- :plant_protein
+- :fat
+- :liked
+- :treat
+:olive_oil:
+- :fat
+:sesame_oil:
+- :fat
+:coconut_oil:
+- :fat
+- :liked
+:quinoa:
+- :calcium
+- :carbs
+:rye:
+- :carbs
+:spelt:
+- :carbs
+:soaked_oats:
+- :fruit
+- :carbs
+- :liked
+:wildflower_seeds:
+- :calcium
+- :carbs
+:birch_seed:
+- :calcium
+- :carbs
+:clover_seed:
+- :calcium
+- :carbs
+:chia_seed:
+- :calcium
+- :carbs
+- :liked
+:linseed:
+- :calcium
+- :fat
+- :carbs
+- :disliked
+:sunflower_seed:
+- :plant_protein
+- :calcium
+- :fat
+- :carbs
+:pumpkin_seed:
+- :plant_protein
+- :calcium
+- :fat
+- :carbs
+:safflower_seed:
+- :plant_protein
+- :calcium
+- :fat
+- :carbs
+:hemp_seed:
+- :calcium
+- :fat
+- :carbs
+- :liked
+:oilseed:
+- :calcium
+- :fat
+:poppy_seed:
+- :calcium
+:parsnip:
+- :veg
+- :cellulose
+:beetroot:
+- :veg
+- :carotenoids
+- :cellulose
+:tomato:
+- :veg
+- :carotenoids
+:courgette_babyfood:
+- :veg
+- :zeaxanthin
+- :liked
+:squash_babyfood:
+- :veg
+- :carotenoids
+:cherry_banana_babyfood:
+- :fruit
+:rosehip:
+- :carotenoids
+- :liked
+:oak_bark:
+- :cellulose
+- :tannin
+- :liked
+:honey:
+- :treat
+- :liked
+:treacle:
+- :calcium
+- :treat
+:peanut_butter:
+- :plant_protein
+- :fat
+- :treat
+:bee_pollen:
+- :treat
+:worm_castings:
+- :treat
+:popcorn:
+- :carbs
+- :treat
+:chicken_feet:
+- :calcium
